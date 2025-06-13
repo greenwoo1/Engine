@@ -1,6 +1,5 @@
 <?php
 
-
 enum HttpMethod: string
 {
     case GET = 'GET';
